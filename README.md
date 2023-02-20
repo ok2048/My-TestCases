@@ -1,2 +1,2 @@
-# My-TestCases-
-My Test Cases, CheckLists and Bug Reports
+# My-TestCases
+Here I'll store my test cases, checkLists and bug reports
